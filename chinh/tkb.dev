@@ -1,6 +1,6 @@
 [Project]
-FileName=Project2.dev
-Name=Project2
+FileName=tkb.dev
+Name=Project1
 Type=1
 Ver=2
 ObjFiles=
@@ -11,7 +11,7 @@ ResourceIncludes=
 MakeIncludes=
 Compiler=
 CppCompiler=
-Linker=
+Linker=-lbgi -lgdi32 -luser32
 IsCpp=1
 Icon=
 ExeOutput=
@@ -24,11 +24,11 @@ HostApplication=
 UseCustomMakefile=0
 CustomMakefile=
 CommandLine=
-Folders=ham,thuvien
+Folders=file,lib
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
-CompilerSettings=0000000000000000000000000
+CompilerSet=3
+CompilerSettings=0000000100000000001000000
 UnitCount=7
 
 [VersionInfo]
@@ -39,31 +39,21 @@ Build=0
 LanguageID=1033
 CharsetID=1252
 CompanyName=
-FileVersion=1.0.0.0
+FileVersion=
 FileDescription=Developed using the Dev-C++ IDE
 InternalName=
 LegalCopyright=
 LegalTrademarks=
 OriginalFilename=
 ProductName=
-ProductVersion=1.0.0.0
+ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=ahhi.h
+FileName=..\dohoa.cpp
 CompileCpp=1
-Folder=thuvien
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit3]
-FileName=nhap1.cpp
-CompileCpp=1
-Folder=ham
+Folder=file
 Compile=1
 Link=1
 Priority=1000
@@ -71,9 +61,19 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit2]
-FileName=main1.cpp
+FileName=..\hoandoi3.cpp
 CompileCpp=1
-Folder=ham
+Folder=file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit3]
+FileName=..\main1.cpp
+CompileCpp=1
+Folder=file
 Compile=1
 Link=1
 Priority=1000
@@ -81,9 +81,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit4]
-FileName=hoandoi3.cpp
+FileName=..\nhap1.cpp
 CompileCpp=1
-Folder=ham
+Folder=file
 Compile=1
 Link=1
 Priority=1000
@@ -91,9 +91,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit5]
-FileName=sapxep2.cpp
+FileName=..\sapxep2.cpp
 CompileCpp=1
-Folder=ham
+Folder=file
 Compile=1
 Link=1
 Priority=1000
@@ -101,9 +101,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit6]
-FileName=timthu4.cpp
+FileName=..\timthu4.cpp
 CompileCpp=1
-Folder=ham
+Folder=file
 Compile=1
 Link=1
 Priority=1000
@@ -111,9 +111,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit7]
-FileName=dohoa.cpp
+FileName=..\ahhi.h
 CompileCpp=1
-Folder=ham
+Folder=lib
 Compile=1
 Link=1
 Priority=1000

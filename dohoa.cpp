@@ -2,25 +2,24 @@
 #include<iostream>
 #include<fstream>
 #include<stdlib.h>
-#include<stdio.h>
 #include<conio.h>
+#include<stdio.h>
 using namespace std;
-typedef struct doc{
-	string hocphan;
-	char ma[2];
-	string thu;
-	int sotiet;
-	int tietbd;
-}doc;
-
 void xoa(){setcolor(0);
 	for(int y=0;y<9;y++)
 	for(int x=0;x<6;x++)
 	outtextxy(130*(x+1),50*(y+3),"anhyeue");
 	setcolor(14);
 }
-int main()
-{	doc sv;
+void dohoa()
+{	typedef struct doc{
+	string hocphan;
+	char ma[2];
+	string thu;
+	int sotiet;
+	int tietbd;
+}doc;
+doc sv;
 	ifstream a;
 	ifstream b;
 	char *d;
