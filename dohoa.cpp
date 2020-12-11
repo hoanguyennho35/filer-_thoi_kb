@@ -19,10 +19,19 @@ void xoa(){setcolor(0);
 	outtextxy(130*(x+1),50*(y+3),"anhyeue");
 	setcolor(14);
 }
+int coutline(){int i=0;
+fstream a;a.open("locthu.txt",ios_base::in);
+string name;
+while(!a.eof()){getline(a,name);name.clear();i++;}
+a.close();return i;
+}
 int main()
 {	doc sv;
+	int hocphan;cout<<"nhap so hoc phan ";cin>>hocphan;
 	ifstream a;
 	ifstream b;
+	int ik=0;ik=coutline();ik=(ik-2)/(hocphan+1);
+	int ik1=0;
 	char *d;
 	b.open("thu.txt",ios_base::in);
 	string thu;
@@ -54,7 +63,7 @@ int main()
 	c.open("sosanh.txt",ios_base::in);string nhap1;int a1;getline(a,nhap); char k2;	//doc dau xuong hang
 	getline(a,nhap);			//loc bo phan dau locthu
 	while(1){xoa();
-	for(int i=0;i<6;i++)
+	for(int i=0;i<hocphan;i++)
 	{a.seekg(0,ios_base::cur);sv.hocphan.clear();sv.thu.clear();
 	a>>sv.hocphan;a>>sv.ma;a>>sv.thu;a>>sv.sotiet;a>>sv.tietbd; 
 	c.seekg(0,ios_base::beg);
@@ -71,8 +80,11 @@ int main()
 	
 		outtextxy(130*(a1-1),50*(sv.tietbd+2+z),d);
 		};
-	free(d);i1++;}delay(2);a>>nhap;cout<<"nhan phim bat ky de tip ";k2=getche();}
-	getchar();
+	free(d);i1++;}delay(2);ik1++;
+	if(ik1!=ik)
+	{a>>nhap;cout<<"nhan phim bat ky de tip ";k2=getche();}
+	else	{setcolor(13);outtextxy(600,700,"het");cout<<"end";k2=getche();break;}
+	}
 //	while(!a.eof())
 //	{	if(!a.eof())   {
 //		a>>sv.stt;if(a.stt==0)break;a>>sv.ma;
