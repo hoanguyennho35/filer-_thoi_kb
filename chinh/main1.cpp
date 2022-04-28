@@ -28,25 +28,27 @@ int main()
 {int l;
 while(1){system("cls");
 printf("1.nhap ");
-printf("\n2.sapxep");
+printf("\n2.tenfile");
+printf("\n21.sapxep");
 printf("\n3.tim kiem thu");
 printf("\n4.thoi khoa bieu");
 printf("\n5.thoat");
 printf("\nnhap lua chon cua ban: ");fflush(stdin);scanf("%d",&l);
 switch(l){
 case 1:
-	nhap();
-  	sapxep(); 
+	nhap(); 
 	break;
 case 2:
-	namefile();sapxep();break;
+	namefile();break;
+case 21:
+	sapxep();break;
 case 3:
 	if(a==0){
 printf("ban dk bao nhiu hoc phan: ");
 scanf("%d",&a);}
 	hoandoi();
     timthu();
-    dohoa();
+    //dohoa();
 	break;
 case 4:
 	dohoa();break;
