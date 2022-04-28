@@ -1,0 +1,97 @@
+   HP lop  thu sotiet tietbd
+
+ct376   1 bay  3  6
+cn579   1 sau  3  1
+ct380   1 bay  3  6
+cn416   1  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   1 sau  3  1
+ct380   1 bay  3  6
+cn416   2  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   1 sau  3  1
+ct380   2 sau  3  1
+cn416   1  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   1 sau  3  1
+ct380   2 sau  3  1
+cn416   2  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   2  ba  3  1
+ct380   1 bay  3  6
+cn416   1  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   2  ba  3  1
+ct380   1 bay  3  6
+cn416   2  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   2  ba  3  1
+ct380   2 sau  3  1
+cn416   1  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   2  ba  3  1
+ct380   2 sau  3  1
+cn416   2  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   3  tu  3  6
+ct380   1 bay  3  6
+cn416   1  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   3  tu  3  6
+ct380   1 bay  3  6
+cn416   2  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   3  tu  3  6
+ct380   2 sau  3  1
+cn416   1  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****
+
+ct376   1 bay  3  6
+cn579   3  tu  3  6
+ct380   2 sau  3  1
+cn416   2  tu  2  4
+cn580   1 hai  3  1
+ct409   1  ba  3  1
+   *****

@@ -1,0 +1,4 @@
+STT   ma  thu sotiet tietbd
+
+  1   01   tu      3      6
+  2   02   ba      3      3

@@ -1,0 +1,4 @@
+STT   ma  thu sotiet tietbd
+
+  1   01  bay      3      6
+  0    0  het      0      0

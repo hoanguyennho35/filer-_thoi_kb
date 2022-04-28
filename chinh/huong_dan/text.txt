@@ -1,0 +1,12 @@
+xóa hết file .text học kỳ trước
+TH: chưa có file
+chọn 1 nhập-->> tạo file tenfile rồi...........=>>5 thoát
+=>mở kiểm tra "tenfile" có giống với các học phần đã nhập 
+
+Th: nếu bổ sung học phần tạo file mới cho nhanh "cn163" ......cập nhật" tenfile"
+nếu tenfile bị xóa chọn 2:  hoặc tạo file mới
+
+có file đầy đủ  tenhọcphần và tenfile
+chọn 21  nhập số học phần đk         để tạo file ketqua
+chọn 3 để lọc ra file newkq
+chọn 4   nhập số học phần            xem đồ họa

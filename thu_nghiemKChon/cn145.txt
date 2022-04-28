@@ -1,0 +1,8 @@
+STT   ma  thu sotiet tietbd
+
+  1   01   ba      3      3
+  2   02   tu      3      3
+  3   03   tu      3      6
+  4   04  nam      3      6
+  5   05  sau      3      3
+  6   06  nam      3      3

@@ -1,0 +1,105 @@
+hocphan mã  thu  stiet tbd
+  cn425  2     ba  3  3
+  cn145  2     tu  3  3
+  ct377  2     tu  3  6
+  ct397  1    nam  3  1
+  cn582  1    sau  3  3
+  cn581  1    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  cn145  2     tu  3  3
+  ct377  2     tu  3  6
+  ct397  1    nam  3  1
+  cn582  1    sau  3  3
+
+  cn425  2     ba  3  3
+  ct377  2     tu  3  6
+  ct397  1    nam  3  1
+  cn145  4    nam  3  6
+  cn582  1    sau  3  3
+  cn581  1    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  ct377  2     tu  3  6
+  ct397  1    nam  3  1
+  cn145  4    nam  3  6
+  cn582  1    sau  3  3
+
+  cn581  2    hai  3  1
+  cn145  1     ba  3  3
+  cn425  1     tu  3  6
+  ct397  1    nam  3  1
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn145  2     tu  3  3
+  cn425  1     tu  3  6
+  ct397  1    nam  3  1
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  cn145  2     tu  3  3
+  ct397  1    nam  3  1
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  cn145  3     tu  3  6
+  ct397  1    nam  3  1
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  1     tu  3  6
+  ct397  1    nam  3  1
+  cn145  4    nam  3  6
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  ct397  1    nam  3  1
+  cn145  4    nam  3  6
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  cn145  2     tu  3  3
+  ct397  2     tu  3  6
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  ct397  2     tu  3  6
+  cn145  4    nam  3  6
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn581  2    hai  3  1
+  cn425  2     ba  3  3
+  ct397  2     tu  3  6
+  cn145  6    nam  3  3
+  cn582  1    sau  3  3
+  ct377  3    sau  3  6
+
+  cn145  1     ba  3  3
+  cn425  1     tu  3  6
+  ct397  1    nam  3  1
+  ct377  5    nam  3  6
+  cn582  1    sau  3  3
+  cn581  1    sau  3  6
+
+  cn581  2    hai  3  1
+  cn145  1     ba  3  3
+  cn425  1     tu  3  6
+  ct397  1    nam  3  1
+  ct377  5    nam  3  6
+  cn582  1    sau  3  3

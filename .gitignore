@@ -1,4 +1,4 @@
 *.o
 *.layout
-*.txt
-*.exe
+concho
+*.gitignore

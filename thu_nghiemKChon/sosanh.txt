@@ -1,0 +1,6 @@
+hai 2
+ba 3
+tu 4
+nam 5
+sau 6
+bay 7
